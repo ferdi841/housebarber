@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">![IMG_2048](https://github.com/user-attachments/assets/f4ccc595-7a4d-4e56-84b2-9c0e92561f3c)
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"'<link real="(https://github.com/user-attachments/assets/f4ccc595-7a4d-4e56-84b2-9c0e92561f3c)">
 
     <title>House Barber - Barbershop Terbaik</title>
     href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"![IMG_2048]
