@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>House Barber - Barbershop Terbaik</title>
-    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"(https://github.com/user-attachments/assets/e4a59002-ee56-4e10-9ccf-a69afc3d1de5)
+    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"![IMG_2048](https://github.com/user-attachments/assets/fb83bbe9-6090-45a7-99c5-536f9f9ebd95)
+
 
     <style>
         body {
@@ -104,7 +105,8 @@
             width: 30%;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .haircut img {![Uploading image.jpeg…]()
+        .haircut ![IMG_2042](https://github.com/user-attachments/assets/fd0e9b54-7cd5-42d6-8884-73abae55e34f)
+
 
             width: 100%;
             height: auto;
