@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>House Barber - Barbershop Terbaik</title>
-    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"> ![image](https://github.com/user-attachments/assets/e4a59002-ee56-4e10-9ccf-a69afc3d1de5)
+    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"(https://github.com/user-attachments/assets/e4a59002-ee56-4e10-9ccf-a69afc3d1de5)
 
     <style>
         body {
@@ -88,13 +88,13 @@
         .payment-options input[type="radio"] {
             margin: 0 10px;
         }
-        .haircuts {![image](https://github.com/user-attachments/assets/7650438c-4ce3-4d72-8fa2-5682cb3d466e)
+        .haircuts(https://github.com/user-attachments/assets/7650438c-4ce3-4d72-8fa2-5682cb3d466e)
 
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
         }
-        .haircut {![image](https://github.com/user-attachments/assets/7cd0ec47-9555-4589-86f9-80df7b753619)
+        .haircut(https://github.com/user-attachments/assets/7cd0ec47-9555-4589-86f9-80df7b753619)
 
             background: white;
             border-radius: 5px;
