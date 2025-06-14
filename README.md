@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>House Barber - Barbershop Terbaik</title>
-    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"> <!-- Ganti dengan URL logo HB Anda -->
+    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"> ![image](https://github.com/user-attachments/assets/e4a59002-ee56-4e10-9ccf-a69afc3d1de5)
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -77,7 +78,7 @@
             border: 1px solid #ccc;
             border-radius: 5px;
         }
-        .payment-options {
+        .payment-options {dana 089518371444
             margin-top: 20px;
             text-align: center;
         }
@@ -87,12 +88,14 @@
         .payment-options input[type="radio"] {
             margin: 0 10px;
         }
-        .haircuts {
+        .haircuts {![image](https://github.com/user-attachments/assets/7650438c-4ce3-4d72-8fa2-5682cb3d466e)
+
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
         }
-        .haircut {
+        .haircut {![image](https://github.com/user-attachments/assets/7cd0ec47-9555-4589-86f9-80df7b753619)
+
             background: white;
             border-radius: 5px;
             margin: 10px;
@@ -101,7 +104,8 @@
             width: 30%;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .haircut img {
+        .haircut img {![Uploading image.jpeg…]()
+
             width: 100%;
             height: auto;
             border-radius: 5px;
