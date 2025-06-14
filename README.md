@@ -1,10 +1,12 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>House Barber - Barbershop Terbaik</title>
-    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"><!--(https://github.com/user-attachments/assets/74056aee-1421-41fc-9ac9-0d44b6fa9149)
--->
+    <link rel="icon" href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"> <!-- ![IMG_2048](https://github.com/user-attachments/assets/b6bb4988-efbc-4f47-94d6-95507d5e4a24)
+ -->
+
 
     <title>House Barber - Barbershop Terbaik</title>
     href="https://via.placeholder.com/32x32.png?text=HB" type="image/png"![IMG_2048]
@@ -15,7 +17,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: black;
         }
         header {
             background: #1e88e5;
